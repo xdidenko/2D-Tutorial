@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D07C910E-9E10-44F4-3D17-0A589632C98A}") = "Anoxemia2", "Assembly-CSharp-firstpass-vs.csproj", "{A8248034-DA9C-2F57-51CF-D7D2B92F55D8}"
+EndProject
+Project("{D07C910E-9E10-44F4-3D17-0A589632C98A}") = "Anoxemia2", "Assembly-CSharp-vs.csproj", "{D9702F66-77E7-901C-A2D5-8894B7994E1B}"
+EndProject
+Project("{D07C910E-9E10-44F4-3D17-0A589632C98A}") = "Anoxemia2", "Assembly-CSharp-Editor-firstpass-vs.csproj", "{A6F8D6C2-834C-C27F-C352-F220BD44B85B}"
+EndProject
+Project("{D07C910E-9E10-44F4-3D17-0A589632C98A}") = "Anoxemia2", "Assembly-CSharp-Editor-vs.csproj", "{921C3AAE-D315-368A-4432-DE38B92CAF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8248034-DA9C-2F57-51CF-D7D2B92F55D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8248034-DA9C-2F57-51CF-D7D2B92F55D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8248034-DA9C-2F57-51CF-D7D2B92F55D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8248034-DA9C-2F57-51CF-D7D2B92F55D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9702F66-77E7-901C-A2D5-8894B7994E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9702F66-77E7-901C-A2D5-8894B7994E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9702F66-77E7-901C-A2D5-8894B7994E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9702F66-77E7-901C-A2D5-8894B7994E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F8D6C2-834C-C27F-C352-F220BD44B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F8D6C2-834C-C27F-C352-F220BD44B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F8D6C2-834C-C27F-C352-F220BD44B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F8D6C2-834C-C27F-C352-F220BD44B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921C3AAE-D315-368A-4432-DE38B92CAF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921C3AAE-D315-368A-4432-DE38B92CAF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921C3AAE-D315-368A-4432-DE38B92CAF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921C3AAE-D315-368A-4432-DE38B92CAF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
